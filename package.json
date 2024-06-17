@@ -1,7 +1,6 @@
 {
   "homepage":"http://navalrathore10.github.io/Picload-Naval-Rathore",
   "name": "assignment-picload",
-  "homepage": "{gitRepositoryUrl}",
   "private": true,
   "version": "0.0.0",
   "type": "module",
