@@ -1,4 +1,5 @@
 {
+  "homepage":"http://navalrathore10.github.io/Picload-Naval-Rathore",
   "name": "assignment-picload",
   "homepage": "{gitRepositoryUrl}",
   "private": true,
@@ -6,11 +7,11 @@
   "type": "module",
   "scripts": {
     "start": "vite",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
