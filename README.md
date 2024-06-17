@@ -74,8 +74,8 @@ The theme toggle feature allows users to switch between dark and light themes. T
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/picload.git
-    cd picload
+    git clone https://github.com/navalrathore10/Picload-Naval-Rathore.git
+    cd Picload-Naval-Rathore
     ```
 2. Install dependencies:
     ```sh
